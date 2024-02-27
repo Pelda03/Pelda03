@@ -8,7 +8,7 @@ I'm a 20 year old male living (surviving) somewhere in Czech Republic and I curr
 
 I discovered my passion for coding while working in IT and have been hooked ever since. I've taught myself Python through countless hours of online courses, coding challenges, and building my own projects. I love the problem-solving aspect of coding and the satisfaction of creating something useful from scratch.
 
-I'm no professional, however. I consider myself still being a junior in coding. There's still a plenty of stuff ahead of me left to learn, but I'm particularly interested in automation, utilities AI, as well as some occasional backend work on websites! I'm always looking for new challenges and opportunities to further develop my skills and advance.
+I'm no professional, however. I consider myself still being a junior in coding. There's still a plenty of stuff ahead of me left to learn, but I'm particularly interested in automation, utilities, AI, as well as some occasional backend work on websites! I'm always looking for new challenges and opportunities to further develop my skills and advance.
 
 # 💻 Tech Stack:
 
