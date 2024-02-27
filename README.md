@@ -1,3 +1,15 @@
+# Hi there 👋, I'm Martin!
+
+I'm a self-taught programmer who turns coffee into code, specializing in automation of tasks and creating utilities. I've developed a range of scripts and tools using Python, helping to streamline processes and improve efficiency in my current role as an IT administrator.
+
+## 🚀 About Me
+
+I'm a 20 year old male living (surviving) somewhere in Czech Republic and I currently work as an IT administrator, administrating stuff from servers, network, to taking care of our users.
+
+I discovered my passion for coding while working in IT and have been hooked ever since. I've taught myself Python through countless hours of online courses, coding challenges, and building my own projects. I love the problem-solving aspect of coding and the satisfaction of creating something useful from scratch.
+
+I'm no professional, however. I consider myself still being a junior in coding. There's still a plenty of stuff ahead of me left to learn, but I'm particularly interested in automation, utilities AI, as well as some occasional backend work on websites! I'm always looking for new challenges and opportunities to further develop my skills and advance.
+
 # 💻 Tech Stack:
 
 ## Frontend:
@@ -22,11 +34,12 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
+(Not very accurate, most of my repos are private :v)
 ![](https://github-readme-stats.vercel.app/api?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pelda03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Something to light up your day
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
