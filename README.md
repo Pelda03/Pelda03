@@ -34,8 +34,7 @@ I'm no professional, however. I consider myself still being a junior in coding. 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-(Not very accurate, most of my repos are private :v)
-&nbsp
+## Not very accurate, most of my repos are private 🙈
 ![](https://github-readme-stats.vercel.app/api?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pelda03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
