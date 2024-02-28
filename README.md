@@ -35,6 +35,7 @@ I'm no professional, however. I consider myself still being a junior in coding. 
 
 # 📊 GitHub Stats:
 (Not very accurate, most of my repos are private :v)
+&nbsp
 ![](https://github-readme-stats.vercel.app/api?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pelda03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelda03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
