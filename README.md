@@ -4,7 +4,7 @@ I'm a self-taught programmer who turns coffee into code, specializing in automat
 
 ## 🚀 About Me
 
-I'm a 21 year old male living (surviving) somewhere in Czech Republic and I currently work as an IT administrator, administrating stuff from servers, network, to taking care of our users.
+I'm a 22 year old male living (surviving) somewhere in Czech Republic and I currently work as an IT administrator, administrating stuff from servers, network, to taking care of our users.
 
 I discovered my passion for coding while working in IT and have been hooked ever since. I've taught myself Python through countless hours of online courses, coding challenges, and building my own projects. I love the problem-solving aspect of coding and the satisfaction of creating something useful from scratch.
 
