@@ -10,10 +10,6 @@ I discovered my passion for coding while working in IT and have been hooked ever
 
 I'm no professional, however. I consider myself still being a junior in coding. There's still a plenty of stuff ahead of me left to learn, but I'm particularly interested in automation, utilities, AI, as well as some occasional backend work on websites! I'm always looking for new challenges and opportunities to further develop my skills and advance.
 
-Fun fact: I like listening to music<br>
-<strong>And I might be listening to something ;)</strong>
-<br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11153067970&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 # 💻 Tech Stack:
 
